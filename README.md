@@ -25,8 +25,30 @@ Here is a tutorial on how to use Jenkins with Python scripts for network devices
 
 ![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image10.png?raw=true)
 
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image11.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image12.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image13.png?raw=true)
+
+
 **Configuration**
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image14.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image15.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image16.png?raw=true)
 
 
 **Running Python scrips**
 
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image17.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image18.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image19.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image20.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image21.png?raw=true)

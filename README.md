@@ -7,6 +7,7 @@ Here is a tutorial on how to use Jenkins with Python scripts for network devices
 **Installation**
 &nbsp;<BR>
 &nbsp;<BR>
+
 ![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image01.png?raw=true)
 
 ![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image02.png?raw=true)
@@ -44,6 +45,8 @@ Here is a tutorial on how to use Jenkins with Python scripts for network devices
 
 
 **Running Python scripts**
+&nbsp;<BR>
+&nbsp;<BR>
 
 ![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image17.png?raw=true)
 
@@ -57,6 +60,8 @@ Here is a tutorial on how to use Jenkins with Python scripts for network devices
 
 
 **Running Python scripts from another server (node)**
+&nbsp;<BR>
+&nbsp;<BR>
 
 ![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image22.png?raw=true)
 

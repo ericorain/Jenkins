@@ -33,9 +33,12 @@ Here is a tutorial on how to use Jenkins with Python scripts for network devices
 ![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image12.png?raw=true)
 
 ![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image13.png?raw=true)
-
+&nbsp;<BR>
+&nbsp;<BR>
 
 **Configuration**
+&nbsp;<BR>
+&nbsp;<BR>
 
 ![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image14.png?raw=true)
 

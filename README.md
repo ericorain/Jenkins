@@ -4,7 +4,6 @@ Here is a tutorial on how to use Jenkins with Python scripts for network devices
 
 **Installation**
 
-
 ![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image01.png?raw=true)
 
 ![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image02.png?raw=true)
@@ -52,3 +51,44 @@ Here is a tutorial on how to use Jenkins with Python scripts for network devices
 ![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image20.png?raw=true)
 
 ![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image21.png?raw=true)
+
+
+**Running Python scripts from another server (node)**
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image22.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image23.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image24.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image25.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image26.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image27.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image28.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image29.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image30.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image31.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image32.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image33.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image34.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image35.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image36.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image37.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image38.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image39.png?raw=true)
+
+![alt text](https://github.com/ericorain/Jenkins/blob/master/Images/Image40.png?raw=true)
